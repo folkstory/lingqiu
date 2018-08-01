@@ -13,7 +13,7 @@
 ## 传说部分
 
 <details>
-<summary>人物传说</summary>
+<summary><h3 style="display:inline;">人物传说</h3></summary>
   
 * 赵武灵王
 * 刘秀封树
