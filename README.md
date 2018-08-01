@@ -13,7 +13,7 @@
 ## 传说部分
 
 <details>
-<summary><h3 style="display:inline;">人物传说</h3></summary>
+<summary>人物传说</summary>
   
 * 赵武灵王
 * 刘秀封树
@@ -52,14 +52,20 @@
 
 <details>
 <summary>地方传说</summary>
+  
+  
 </details>
 
 <details>
 <summary>动物传说</summary>
+  
+  
 </details>
 
 <details>
 <summary>风俗传说</summary>
+  
+  
 </details>
 
 ## 故事部分
