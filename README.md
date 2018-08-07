@@ -53,7 +53,7 @@
 </details>
 
 <details>
-<summary><big>地方传说</big></summary>
+<summary><b>地方传说</b></summary>
 
 * [灵丘县的来历](传说部分/地方传说/灵丘县的来历.md)
 * [灵丘县“九景十八拗”的来历](传说部分/地方传说/灵丘县“九景十八拗”的来历.md)
@@ -98,7 +98,7 @@
 </details>
 
 <details>
-<summary>动物传说</summary>
+<summary><b>动物传说</b></summary>
 
 * [狍子的上唇为啥有道缝](传说部分/动物传说/狍子的上唇为啥有道缝.md)
 * 狍子的上唇为啥有道缝
@@ -113,7 +113,7 @@
 </details>
 
 <details>
-<summary>风俗传说</summary>
+<summary><b>风俗传说</b></summary>
 
 * [“腊八人”的传说（之一）](传说部分/风俗传说/“腊八人”的传说（之一）.md)
 * “腊八人”的传说（之二）
@@ -124,7 +124,7 @@
 ## 故事部分
 
 <details>
-<summary>幻想故事</summary>
+<summary><b>幻想故事</b></summary>
 
 * [赊三与现二](故事部分/幻想故事/赊三与现二.md)
 * 赊三与现二
@@ -151,7 +151,7 @@
 </details>
 
 <details>
-<summary>动物故事</summary>
+<summary><b>动物故事</b></summary>
 
 * [蛤蟆和燕子](故事部分/动物故事/蛤蟆和燕子.md)
 * 猫和耗子的故事
@@ -165,7 +165,7 @@
 </details>
 
 <details>
-<summary>鬼狐精怪故事</summary>
+<summary><b>鬼狐精怪故事</b></summary>
 
 * [阎王设计拿彭松](故事部分/鬼狐精怪故事/阎王设计拿彭松.md)
 * 三爬子的传说
@@ -181,7 +181,7 @@
 </details>
 
 <details>
-<summary>生活故事</summary>
+<summary><b>生活故事</b></summary>
 
 * [憨虎进城](故事部分/生活故事/憨虎进城.md)
 * 勤招宝、懒引屎
@@ -232,7 +232,7 @@
 </details>
 
 <details>
-<summary>机智人物故事</summary>
+<summary><b>机智人物故事</b></summary>
 
 * [王维买药](故事部分/机智人物故事/王维买药.md)
 * 寿宴中作咬尾诗
@@ -264,7 +264,7 @@
 </details>
 
 <details>
-<summary>笑话</summary>
+<summary><b>笑话</b></summary>
 
 * [媳妇分鸡](故事部分/笑话/媳妇分鸡.md)
 * 谷面糊糊咬人哩
@@ -306,7 +306,7 @@
 </details>
 
 <details>
-<summary>革命斗争故事</summary>
+<summary><b>革命斗争故事</b></summary>
 
 * [全国民兵战斗英雄刘九江的故事](故事部分/革命斗争故事/全国民兵战斗英雄刘九江的故事.md)
 * 姬纪海大摆地雷阵
@@ -316,7 +316,7 @@
 </details>
 
 <details>
-<summary>其他故事</summary>
+<summary><b>其他故事</b></summary>
 
 * [梦先生传奇](故事部分/其他故事/梦先生传奇.md)
 * 杨庄过年听下关
@@ -331,7 +331,7 @@
 ## 歌谣部分
 
 <details>
-<summary>劳动歌</summary>
+<summary><b>劳动歌</b></summary>
 
 * [打酸枣](歌谣部分/劳动歌/打酸枣.md)
 * 摘花椒
@@ -340,7 +340,7 @@
 </details>
 
 <details>
-<summary>时政歌</summary>
+<summary><b>时政歌</b></summary>
 
 * [灵丘是个好地方](歌谣部分/时政歌/灵丘是个好地方.md)
 * 灵丘人民唱新歌
@@ -367,7 +367,7 @@
 </details>
 
 <details>
-<summary>仪式歌</summary>
+<summary><b>仪式歌</b></summary>
 
 * [念喜歌（新）](歌谣部分/仪式歌/念喜歌（新）.md)
 * 念喜歌(旧）
@@ -378,7 +378,7 @@
 </details>
 
 <details>
-<summary>情歌</summary>
+<summary><b>情歌</b></summary>
 
 * [串河湾](歌谣部分/情歌/串河湾.md)
 * 四哥揽长工
@@ -405,7 +405,7 @@
 </details>
 
 <details>
-<summary>生活歌</summary>
+<summary><b>生活歌</b></summary>
 
 * [女儿经](歌谣部分/生活歌/女儿经.md)
 * 媳妇想娘家
@@ -425,7 +425,7 @@
 </details>
 
 <details>
-<summary>历史传说歌</summary>
+<summary><b>历史传说歌</b></summary>
 
 * [三国志](歌谣部分/历史传说歌/三国志.md)
 * 画扇面
@@ -442,7 +442,7 @@
 </details>
 
 <details>
-<summary>儿歌</summary>
+<summary><b>儿歌</b></summary>
 
 * [红公鸡](歌谣部分/儿歌/红公鸡.md)
 * 财主家的四灰皮
@@ -467,7 +467,7 @@
 </details>
 
 <details>
-<summary>其他</summary>
+<summary><b>其他</b></summary>
 
 * [谝八树](歌谣部分/其他/谝八树.md)
 * 对花
@@ -486,7 +486,7 @@
 </details>
 
 <details>
-<summary>曲谱</summary>
+<summary><b>曲谱</b></summary>
 
 * [打樱桃](歌谣部分/曲谱/打樱桃.md)
 * 打樱桃
