@@ -53,7 +53,7 @@
 </details>
 
 <details>
-<summary><big>地方传说/big></summary>
+<summary><big>地方传说</big></summary>
 
 * [灵丘县的来历](传说部分/地方传说/灵丘县的来历.md)
 * [灵丘县“九景十八拗”的来历](传说部分/地方传说/灵丘县“九景十八拗”的来历.md)
