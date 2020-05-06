@@ -8,9 +8,10 @@ jobs: # Docs: <https://help.github.com/en/articles/workflow-syntax-for-github-ac
     runs-on: ubuntu-latest
     steps:
       - name: Check out code
-        uses: actions/checkout@v2
+        uses: actions/checkout@master
+
+      - name: Install markdown lint cli
+        run: npm install -g markdownlint-cli
 
       - name: Lint markdown file
-        uses: avto-dev/markdown-lint@v1
-        with:
-          args: "*.md"
+        run: markdownlint-cli -f *.md
