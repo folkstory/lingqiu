@@ -1,0 +1,16 @@
+name: markdown lint
+
+on: [push, pull_request]
+
+jobs: # Docs: <https://help.github.com/en/articles/workflow-syntax-for-github-actions>
+  lint-changelog:
+    name: markdown lint
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out code
+        uses: actions/checkout@v2
+
+      - name: Lint markdown file
+        uses: avto-dev/markdown-lint@v1
+        with:
+          args: "*.md"
