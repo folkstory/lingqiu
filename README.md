@@ -511,4 +511,4 @@
 
 ## 八、License
 
-[知识共享 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/deed.zh)
+本作品采用[《署名-非商业性使用-禁止演绎 4.0 国际 (CC BY-NC-ND 4.0)》](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.zh-Hans)许可协议
