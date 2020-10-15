@@ -232,7 +232,7 @@
 * 出穷对
 * 出来看
 * 以诗别人
-* 谢学士的故事.....
+* 谢学士的故事……
 * 四女婿对诗
 
 ### 4.6 笑话
@@ -459,10 +459,10 @@
 
 ## 六、谚语部分
 
-* 谚语1053则
+* 谚语 1053 则
 
 ## [七、后记](后记.md)
 
 ## 八、License
 
-[知识共享 署名-相同方式共享 3.0协议](https://creativecommons.org/licenses/by-sa/3.0/deed.zh)
+[知识共享 署名-相同方式共享 3.0 协议](https://creativecommons.org/licenses/by-sa/3.0/deed.zh)
