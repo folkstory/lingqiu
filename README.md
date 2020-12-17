@@ -1,5 +1,9 @@
 # 灵丘民间故事
 
+## 在线阅读
+
+* [https://folkstory.github.io/lingqiu-folk-story](https://folkstory.github.io/lingqiu-folk-story)
+
 ## [一、序](序.md)
 
 ## 二、神话部分
