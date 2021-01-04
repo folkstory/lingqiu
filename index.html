@@ -11,6 +11,7 @@
     <link rel="shortcut icon" href="./static/favicon.png"/>
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css"/>
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css"/>
     <style>
         .app-name-link img {
@@ -81,6 +82,12 @@
       },
       isExpected: true
     },
+    pagination: {
+      previousText: '上一篇',
+      nextText: '下一篇',
+      crossChapter: true,
+      crossChapterText: false,
+    },
     markdown:{
       renderer: {
         code: function(code, lang) {
@@ -99,6 +106,9 @@
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 <script>
   // 百度统计
   var _hmt = _hmt || [];
@@ -117,6 +127,16 @@
 
   ga('create', '257687599', 'auto');
   ga('send', 'pageview');
+
+  // gitalk
+  const gitalk = new Gitalk({
+    clientID: '9dce484d70c9dabda9e6',
+    clientSecret: 'dc39377eb2304b3cfbf9b77ec269bcd64a58cc0f',
+    repo: 'lingqiu-folk-story',
+    owner: 'folkstory',
+    admin: ['guanguans', 'mcy-689'],
+    distractionFreeMode: false
+  })
 </script>
 </body>
 
