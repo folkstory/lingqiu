@@ -12,7 +12,6 @@
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css"/>
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.css"/>
     <style>
         .app-name-link img {
             width: 38%;
@@ -23,12 +22,8 @@
 <body>
 <div id="app"></div>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-php.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github/index.js"></script>
-<script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
 <script>
-  mermaid.initialize({ startOnLoad: false });
-
   window.$docsify = {
     name: '灵丘民间故事歌谣谚语',
     repo: 'folkstory/lingqiu-folk-story',
@@ -88,27 +83,15 @@
       crossChapter: true,
       crossChapterText: false,
     },
-    markdown:{
-      renderer: {
-        code: function(code, lang) {
-          if (lang === "mermaid") {
-            return ('<div class="mermaid">' + mermaid.render(lang, code) + '</div>');
-          }
-          return this.origin.code.apply(this, arguments);
-        }
-      }
-    }
   }
 </script>
-<script src="//cdn.jsdelivr.net/npm/docsify-copy-code"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-<script src="//cdn.jsdelivr.net/npm/docsify-plantuml/dist/docsify-plantuml.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
 <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
-<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
 <script>
   // 百度统计
   var _hmt = _hmt || [];
@@ -135,7 +118,8 @@
     repo: 'lingqiu-folk-story',
     owner: 'folkstory',
     admin: ['guanguans', 'mcy-689'],
-    distractionFreeMode: false
+    distractionFreeMode: false,
+    id: (decodeURI(window.location.href).split('/#')[1]).substring(0, 49),
   })
 </script>
 </body>
