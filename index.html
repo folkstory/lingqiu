@@ -10,8 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>
     <!--<link rel="shortcut icon" href="./static/favicon.png"/>-->
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css"/>
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
-    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css"/>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css"/>
     <style>
         .app-name-link img {
             width: 38%;
@@ -63,14 +63,14 @@
     plantuml: {
       skin: 'classic',
     },
-    count:{
+    count: {
       countable: true,
       position: 'top',
       margin: '10px',
       float: 'right',
-      fontsize:'0.9em',
-      color:'rgb(90,90,90)',
-      language:'chinese',
+      fontsize: '0.9em',
+      color: 'rgb(90,90,90)',
+      language: 'chinese',
       localization: {
         words: "",
         minute: ""
@@ -112,6 +112,9 @@
   ga('send', 'pageview');
 
   // gitalk
+  var pathNames = decodeURI(window.location.href).split('#/');
+  var pathName = pathNames && pathNames[1] ? pathNames[1] : '/'
+  console.log(pathNames);
   const gitalk = new Gitalk({
     clientID: '9dce484d70c9dabda9e6',
     clientSecret: 'dc39377eb2304b3cfbf9b77ec269bcd64a58cc0f',
@@ -119,7 +122,8 @@
     owner: 'folkstory',
     admin: ['guanguans', 'mcy-689'],
     distractionFreeMode: false,
-    id: (decodeURI(window.location.href).split('#/')[1]).substring(0, 49),
+    id: pathName.split('?')[0],
+    language: 'zh-CN',
   })
 </script>
 </body>
