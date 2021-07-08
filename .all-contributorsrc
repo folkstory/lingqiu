@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "tinoras",
+      "name": "TINORA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13230390?v=4",
+      "profile": "https://github.com/tinoras",
+      "contributions": [
+        "bug",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "lingqiu-folk-story",
+  "projectOwner": "folkstory",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
