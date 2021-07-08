@@ -1,0 +1,12 @@
+{
+    "private": true,
+    "scripts": {
+        "md-lint": "./node_modules/.bin/lint-md --config .lintmdrc ./ ./*/ ./*/*/",
+        "md-fix": "./node_modules/.bin/lint-md --config .lintmdrc --fix ./ ./*/ ./*/*/",
+        "docsify-serve": "./node_modules/.bin/docsify serve ./"
+    },
+    "dependencies": {
+        "@lint-md/cli": "^0.1.5",
+        "docsify-cli": "^4.4.3"
+    }
+}
