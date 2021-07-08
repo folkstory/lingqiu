@@ -1,5 +1,6 @@
 # 灵丘民间故事歌谣谚语集成
 
+[![lint markdown](https://github.com/folkstory/lingqiu-folk-story/actions/workflows/lint-md.yml/badge.svg)](https://github.com/folkstory/lingqiu-folk-story/actions/workflows/lint-md.yml)
 ## 在线阅读
 
 * [https://folkstory.github.io/lingqiu-folk-story](https://folkstory.github.io/lingqiu-folk-story)
