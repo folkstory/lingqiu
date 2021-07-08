@@ -35,6 +35,16 @@
         "eventOrganizing",
         "maintenance"
       ]
+    },
+    {
+      "login": "guanguans",
+      "name": "guanguans",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22309277?v=4",
+      "profile": "https://www.guanguans.cn",
+      "contributions": [
+        "eventOrganizing",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
