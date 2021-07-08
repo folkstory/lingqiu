@@ -547,9 +547,9 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="http://mcy689.top"><img src="https://avatars.githubusercontent.com/u/29645994?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mcy689</b></sub></a><br /><a href="https://github.com/folkstory/lingqiu-folk-story/issues?q=author%3Amcy689" title="Bug reports">🐛</a> <a href="#eventOrganizing-mcy689" title="Event Organizing">📋</a> <a href="#maintenance-mcy689" title="Maintenance">🚧</a></td>
     <td align="center"><a href="https://github.com/tinoras"><img src="https://avatars.githubusercontent.com/u/13230390?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TINORA</b></sub></a><br /><a href="https://github.com/folkstory/lingqiu-folk-story/issues?q=author%3Atinoras" title="Bug reports">🐛</a> <a href="https://github.com/folkstory/lingqiu-folk-story/commits?author=tinoras" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/a936919"><img src="https://avatars.githubusercontent.com/u/41937411?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mype</b></sub></a><br /><a href="https://github.com/folkstory/lingqiu-folk-story/issues?q=author%3Aa936919" title="Bug reports">🐛</a> <a href="https://github.com/folkstory/lingqiu-folk-story/commits?author=a936919" title="Documentation">📖</a></td>
-    <td align="center"><a href="http://mcy689.top"><img src="https://avatars.githubusercontent.com/u/29645994?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mcy689</b></sub></a><br /><a href="https://github.com/folkstory/lingqiu-folk-story/issues?q=author%3Amcy689" title="Bug reports">🐛</a> <a href="#eventOrganizing-mcy689" title="Event Organizing">📋</a> <a href="#maintenance-mcy689" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
