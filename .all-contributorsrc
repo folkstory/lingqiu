@@ -6,6 +6,26 @@
   "commit": false,
   "contributors": [
     {
+      "login": "guanguans",
+      "name": "guanguans",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22309277?v=4",
+      "profile": "https://www.guanguans.cn",
+      "contributions": [
+        "eventOrganizing",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "mcy689",
+      "name": "mcy689",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29645994?v=4",
+      "profile": "http://mcy689.top",
+      "contributions": [
+        "eventOrganizing",
+        "maintenance"
+      ]
+    },
+    {
       "login": "tinoras",
       "name": "TINORA",
       "avatar_url": "https://avatars.githubusercontent.com/u/13230390?v=4",
@@ -23,27 +43,6 @@
       "contributions": [
         "bug",
         "doc"
-      ]
-    },
-    {
-      "login": "mcy689",
-      "name": "mcy689",
-      "avatar_url": "https://avatars.githubusercontent.com/u/29645994?v=4",
-      "profile": "http://mcy689.top",
-      "contributions": [
-        "bug",
-        "eventOrganizing",
-        "maintenance"
-      ]
-    },
-    {
-      "login": "guanguans",
-      "name": "guanguans",
-      "avatar_url": "https://avatars.githubusercontent.com/u/22309277?v=4",
-      "profile": "https://www.guanguans.cn",
-      "contributions": [
-        "eventOrganizing",
-        "maintenance"
       ]
     }
   ],
