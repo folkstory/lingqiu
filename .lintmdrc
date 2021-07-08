@@ -3,6 +3,7 @@
         "src/",
         "tests/",
         "vendor/"
+        "node_modules/",
     ],
     "rules": {
         "no-empty-code": 1,

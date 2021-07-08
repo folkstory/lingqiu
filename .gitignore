@@ -6,7 +6,6 @@
 
 composer.lock
 yarn.lock
-package-lock.json
 package.json
 yarn-error.log
 npm-debug.log
@@ -19,3 +18,5 @@ jpush.log
 /.vagrant
 .env
 /.history
+
+./node_modules
