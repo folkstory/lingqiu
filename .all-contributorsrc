@@ -44,6 +44,15 @@
         "bug",
         "doc"
       ]
+    },
+    {
+      "login": "JacketFu",
+      "name": "fu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25817975?v=4",
+      "profile": "https://github.com/JacketFu",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
