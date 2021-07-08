@@ -1,7 +1,10 @@
 # 灵丘民间故事歌谣谚语集成
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![lint markdown](https://github.com/folkstory/lingqiu-folk-story/actions/workflows/lint-md.yml/badge.svg)](https://github.com/folkstory/lingqiu-folk-story/actions/workflows/lint-md.yml)
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#八、贡献者)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 ## 在线阅读
 
 * [https://folkstory.github.io/lingqiu-folk-story](https://folkstory.github.io/lingqiu-folk-story)
