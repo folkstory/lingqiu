@@ -24,6 +24,17 @@
         "bug",
         "doc"
       ]
+    },
+    {
+      "login": "mcy689",
+      "name": "mcy689",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29645994?v=4",
+      "profile": "http://mcy689.top",
+      "contributions": [
+        "bug",
+        "eventOrganizing",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
