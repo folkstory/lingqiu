@@ -14,6 +14,16 @@
         "bug",
         "doc"
       ]
+    },
+    {
+      "login": "a936919",
+      "name": "mype",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41937411?v=4",
+      "profile": "https://github.com/a936919",
+      "contributions": [
+        "bug",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
