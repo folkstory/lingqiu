@@ -546,11 +546,13 @@
 <table>
   <tr>
     <td align="center"><a href="https://github.com/tinoras"><img src="https://avatars.githubusercontent.com/u/13230390?v=4?s=100" width="100px;" alt=""/><br /><sub><b>TINORA</b></sub></a><br /><a href="https://github.com/folkstory/lingqiu-folk-story/issues?q=author%3Atinoras" title="Bug reports">🐛</a> <a href="https://github.com/folkstory/lingqiu-folk-story/commits?author=tinoras" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/a936919"><img src="https://avatars.githubusercontent.com/u/41937411?v=4?s=100" width="100px;" alt=""/><br /><sub><b>mype</b></sub></a><br /><a href="https://github.com/folkstory/lingqiu-folk-story/issues?q=author%3Aa936919" title="Bug reports">🐛</a> <a href="https://github.com/folkstory/lingqiu-folk-story/commits?author=a936919" title="Documentation">📖</a></td>
   </tr>
 </table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 ## 九、License
