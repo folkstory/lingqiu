@@ -6,7 +6,7 @@
 
 ## 在线阅读
 
-* [https://folkstory.github.io/lingqiu-folk-story](https://folkstory.github.io/lingqiu-folk-story)
+* [https://folkstory.github.io/lingqiu](https://folkstory.github.io/lingqiu)
 
 ## [一、序](序.md)
 
