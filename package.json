@@ -6,7 +6,7 @@
         "docsify-serve": "./node_modules/.bin/docsify serve ./"
     },
     "dependencies": {
-        "@lint-md/cli": "^0.1.8",
+        "@lint-md/cli": "^2.0.0",
         "docsify-cli": "^4.4.4"
     }
 }
