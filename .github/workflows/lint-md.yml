@@ -26,4 +26,4 @@ jobs:
         with:
           commit_options: '--no-verify'
           commit_message: Fix markdown
-          file_pattern: '*.md'
+          file_pattern: '*.md */*.md */*/*.md'

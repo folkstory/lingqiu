@@ -1,5 +1,7 @@
 # 灵丘民间故事歌谣谚语集成
 
+[![lint markdown](https://github.com/folkstory/lingqiu/actions/workflows/lint-md.yml/badge.svg)](https://github.com/folkstory/lingqiu/actions/workflows/lint-md.yml)
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
