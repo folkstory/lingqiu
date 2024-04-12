@@ -1,7 +1,6 @@
 {
     "preset": "default",
     "rules": {
-        "adjustedFullwidthPunctuation": "",
         "noSinglePair": false,
         "noSpaceBetweenFullwidthContent": false
     }
