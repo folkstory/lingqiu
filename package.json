@@ -3,10 +3,13 @@
     "scripts": {
         "md-lint": "./node_modules/.bin/lint-md ./*.md ./*/*.md ./*/*/*.md --config=.lintmdrc --threads",
         "md-fix": "./node_modules/.bin/lint-md ./*.md ./*/*.md ./*/*/*.md --config=.lintmdrc --threads --fix",
+        "zh-lint": "./node_modules/.bin/zhlint 'README.md'",
+        "zh-fix": "./node_modules/.bin/zhlint 'README.md' --fix",
         "docsify-serve": "./node_modules/.bin/docsify serve ./"
     },
     "dependencies": {
         "@lint-md/cli": "^2.0.0",
-        "docsify-cli": "^4.4.4"
+        "docsify-cli": "^4.4.2",
+        "zhlint": "^0.8.1"
     }
 }
