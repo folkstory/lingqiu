@@ -1,9 +1,10 @@
 {
     "excludeFiles": [
         "./.build/**",
+        "./.github/**",
+        "./node_modules/**",
         "./vendor/**",
-        "./vendor-bin/**",
-        "./node_modules/**"
+        "./vendor-bin/**"
     ],
     "rules": {
         "space-around-alphabet": 2,
