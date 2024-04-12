@@ -9,9 +9,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: lint-md-github-action
-        uses: lint-md/github-action@v0.1.1
+      - name: Set node version
+        uses: actions/setup-node@v4
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Lint markdown
+        run: npm run md-fix
+
+      - name: Lint zh_CN
+        run: npm run zh-fix
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          configFile: .lintmdrc
-          failOnWarnings: false
-          files: ./ ./*/ ./*/*/
+          commit_options: '--no-verify'
+          commit_message: Fix markdown
+          file_pattern: '*.md'
