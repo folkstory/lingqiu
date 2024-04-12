@@ -1,9 +1,9 @@
 {
     "excludeFiles": [
-        "src/",
-        "tests/",
-        "vendor/"
-        "node_modules/"
+        "./.build/**",
+        "./vendor/**",
+        "./vendor-bin/**",
+        "./node_modules/**"
     ],
     "rules": {
         "space-around-alphabet": 2,

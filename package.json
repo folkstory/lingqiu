@@ -1,8 +1,8 @@
 {
     "private": true,
     "scripts": {
-        "md-lint": "./node_modules/.bin/lint-md --config .lintmdrc ./ ./*/ ./*/*/",
-        "md-fix": "./node_modules/.bin/lint-md --config .lintmdrc --fix ./ ./*/ ./*/*/",
+        "md-lint": "./node_modules/.bin/lint-md ./*.md ./*/*.md ./*/*/*.md --config=.lintmdrc --threads",
+        "md-fix": "./node_modules/.bin/lint-md ./*.md ./*/*.md ./*/*/*.md --config=.lintmdrc --threads --fix",
         "docsify-serve": "./node_modules/.bin/docsify serve ./"
     },
     "dependencies": {
