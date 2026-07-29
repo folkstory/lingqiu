@@ -9,7 +9,7 @@
     },
     "dependencies": {
         "@lint-md/cli": "^2.0.0",
-        "docsify-cli": "^4.4.2",
+        "docsify-cli": "^5.0.0",
         "zhlint": "^0.8.1"
     }
 }
