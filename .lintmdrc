@@ -1,7 +1,11 @@
 {
     "excludeFiles": [
-        "node_modules/",
-        "vendor/"
+        ".build/**",
+        ".github/**",
+        "node_modules/**",
+        "vendor-bin/**",
+        "vendor/**",
+        "vendor/**"
     ],
     "extensions": [
         ".markdown",
@@ -35,7 +39,7 @@
             }
         ],
         "no-half-width-punctuation": 0,
-        "require-trailing-spaces": 0,
+        "require-trailing-spaces": 2,
         "space-around-link": 0,
         "no-multiple-blank-lines": 2
     }

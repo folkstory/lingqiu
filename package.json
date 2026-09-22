@@ -3,10 +3,10 @@
     "scripts": {
         "docsify:serve": "node_modules/.bin/docsify serve ./",
         "install:latest": "npm outdated && npm install @lint-md/cli@latest docsify-cli@latest zhlint@latest && npm outdated",
-        "lint-md": "node_modules/.bin/lint-md ./*.md ./*/*.md ./*/*/*.md --suppress-warnings",
-        "lint-md:fix": "node_modules/.bin/lint-md ./*.md ./*/*.md ./*/*/*.md --suppress-warnings --fix",
-        "zhlint": "node_modules/.bin/zhlint '{./,./*/,./*/*/}*.md'",
-        "zhlint:fix": "node_modules/.bin/zhlint '{./,./*/,./*/*/}*.md' --fix"
+        "lint-md": "node_modules/.bin/lint-md *.md */*.md */*/*.md --suppress-warnings",
+        "lint-md:fix": "node_modules/.bin/lint-md *.md */*.md */*/*.md --suppress-warnings --fix",
+        "zhlint": "node_modules/.bin/zhlint '{,*/,*/*/}*.md'",
+        "zhlint:fix": "node_modules/.bin/zhlint '{,*/,*/*/}*.md' --fix"
     },
     "dependencies": {
         "@lint-md/cli": "^2.4.0",

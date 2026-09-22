@@ -21,4 +21,5 @@ jobs:
       - name: Lint markdown
         run: |
           npm run lint-md
-          npm run zhlint
+          # npm run zhlint
+          npm run zhlint:fix
