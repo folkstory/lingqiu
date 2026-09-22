@@ -23,8 +23,8 @@ end_of_line = crlf
 # [*.go]
 # indent_style = tab
 
-# [*.md]
-# trim_trailing_whitespace = false
+[*.md]
+trim_trailing_whitespace = false
 # max_line_length = 80
 
 [*.{yml,yml.dist,yaml,yaml.dist,xml,xml.dist,toml}]
