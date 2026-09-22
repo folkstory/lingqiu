@@ -1,13 +1,17 @@
-name: Greetings
+name: greetings
 
-on: [pull_request, issues]
+on:
+  workflow_dispatch:
+  issues:
+  pull_request:
+
+permissions:
+  issues: write
+  pull-requests: write
 
 jobs:
   greeting:
     runs-on: ubuntu-latest
-    permissions:
-      issues: write
-      pull-requests: write
     steps:
       - uses: actions/first-interaction@v3
         with:

@@ -1,6 +1,9 @@
-name: lint markdown
+name: lint-md
 
-on: [push, pull_request]
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
 
 jobs:
   lint-markdown:
@@ -16,14 +19,6 @@ jobs:
         run: npm install
 
       - name: Lint markdown
-        run: npm run md-fix
-
-      - name: Lint zh_CN
-        run: npm run zh-fix
-
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v7
-        with:
-          commit_options: '--no-verify'
-          commit_message: Fix markdown
-          file_pattern: '*.md */*.md */*/*.md'
+        run: |
+          npm run lint-md
+          npm run zhlint
